@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">layout</string>
+    <string name="title_activity_nav">nav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome to HIFBox</string>
+    <string name="nav_header_subtitle">Visit us at www.HIFBox.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_user1">Rula</string>
+    <string name="nav_user2">Kemar</string>
+    <string name="nav_user3">Jeremy</string>
+    <string name="nav_user4">person4</string>
+    <string name="nav_exit">Logout</string>
+    <string name="nav_title1">Profile</string>
+    <string name="nav_title2">Exit</string>
+
+
+
+
+</resources>
